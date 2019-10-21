@@ -1,4 +1,4 @@
-# zdog-svg-importer
+# Zdog SVG Importer
 
 Rudimentary SVG importer for [Zdog](https://zzz.dog)
 
@@ -19,6 +19,8 @@ Quite a few caveats:
 ## Usage
 
 Add Zdog and the import script to your page. (TODO: ES6 module)
+
+Check Zdog docs for Zdog usage.
 
 ```js
 const illo = new Zdog.Illustration({
