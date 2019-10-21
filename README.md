@@ -2,6 +2,8 @@
 
 Rudimentary SVG importer for [Zdog](https://zzz.dog)
 
+Example project: https://codepen.io/sakamies/pen/KKKaKmJ
+
 - Takes a dom collection of svg line & path nodes as a parameter. (Just those two implemented, ignores rects etc.)
 - Parses x/y & path attributes and adds the shapes to the given Zdog object.
 - Gets color, stroke & fill from each svg node.
